@@ -38,7 +38,7 @@ namespace JojoPos
         private void Form1_Load(object sender, EventArgs e)
         {
             //Load Day Combo
-
+            //This is a test
             string path = root + "\\files\\Archive\\";
 
             di = new DirectoryInfo(path);
