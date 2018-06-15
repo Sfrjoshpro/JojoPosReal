@@ -53,8 +53,6 @@ namespace JojoPos
 
             _MENU = _MENU.LoadMenu(Menupath);
 
-
-
             //Get all the cat in .file
             List<string> listofcats = new List<string>();
             foreach (var item in _MENU.ListofItems)
@@ -78,21 +76,13 @@ namespace JojoPos
              
                 comboBox2.Items.Add(item);
             }
-          
             comboBox2.Text = comboBox1.Items[0].ToString();
             comboBox2.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox2.SelectedIndex = 0;
-
-
-
         }
 
         private void LoadDay(string SelectedDay)
         {
-
-           
-
-            
             //START HERE
 
             // Load TakeOut
@@ -137,14 +127,7 @@ namespace JojoPos
                 }
                
             }
-           
-          
-
-
         }
-
-       
-
         private void comboBox1_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             
@@ -343,20 +326,6 @@ namespace JojoPos
 
                 GOD = GOD;
 
-
-
-
-
-
-
-
-
-            
-
-           
-
-
-      
     }
      
     public class client
@@ -625,7 +594,6 @@ namespace JojoPos
                 }
             }
         }
-
         private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
         {
 
@@ -635,7 +603,6 @@ namespace JojoPos
         {
             GOD = GOD;
             int i = 0;
-
 
             List<items> TEmp = new List<items>();
             items tesmp2 = new items();
@@ -664,13 +631,7 @@ namespace JojoPos
                 
 
 
-            }
-
-
-
-                
-               
-                  
+            }           
                       /*  GOD.ListofItems.Remove(item);
                         // NEED TO FIND HOW ITEM AND REMOVE THE FUCKERE
                        
@@ -680,15 +641,8 @@ namespace JojoPos
                             loadCust(GOD.Name + ".xml");
                             button5.Enabled = false;
 
-                           */
-
-            
-                
-
-
-            
+                           */     
         }
-
         private void button6_Click(object sender, EventArgs e)
         {
 
@@ -698,22 +652,12 @@ namespace JojoPos
             pop.ShowDialog();
            newMOd = pop.ADD();
 
-           
-              
-           
-
             foreach (var item in GOD.ListofItems)
             {
                 if (listBox2.SelectedItem != null)
                 {
                     if (listBox2.SelectedItem.ToString().Contains(item.Name))
                     {
-                      
-                       
-                      
-
-
-
                         item.Mods.Add(newMOd);
                         GOD = GOD;
                         fpath = fpath;
@@ -722,10 +666,7 @@ namespace JojoPos
                         loadCust(GOD.Name + ".xml");
                         button6.Enabled = false;
 
-                    }
-                   
-
-
+                    }                 
                 }
             }
         }
