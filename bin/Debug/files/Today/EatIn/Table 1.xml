@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<client xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Table 1</Name>
+  <ListofItems>
+    <items>
+      <Name>Tofu</Name>
+      <LucnhPrice>$4.00</LucnhPrice>
+      <DinnerPrice>$6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods />
+    </items>
+    <items>
+      <Name>Water</Name>
+      <LucnhPrice>$2.00</LucnhPrice>
+      <DinnerPrice>$3.00</DinnerPrice>
+      <Cat>Drinks</Cat>
+      <Mods />
+    </items>
+  </ListofItems>
+</client>

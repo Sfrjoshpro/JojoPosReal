@@ -1,0 +1,58 @@
+<Menu>
+<items>
+ <Name>Golden Tofu</Name>
+	<Prices>
+		<Lunch>$5.00</Lunch>
+		<Dinner>$5.00</Dinner>
+	</Prices>
+	<Catagory>Starters</Catagory>
+</items>
+<items>
+	<Name>
+		Edamame
+	</Name>
+	<Prices>
+		<Lunch>
+			$5.00
+		</Lunch>
+		<Dinner>
+			$5.00
+		</Dinner>
+	</Prices>
+	<Catagory>
+		Starters
+	</Catagory>
+</items>
+<items>
+	<Name>
+		Fresh Rolls
+	</Name>
+	<Prices>
+		<Lunch>
+			$5.00
+		</Lunch>
+		<Dinner>
+			$5.00
+		</Dinner>
+	</Prices>
+	<Catagory>
+		Starters
+	</Catagory>
+</items>
+<items>
+	<Name>
+		Fresh Rolls - Shrimp
+	</Name>
+	<Prices>
+		<Lunch>
+			$6.00
+		</Lunch>
+		<Dinner>
+			$6.00
+		</Dinner>
+	</Prices>
+	<Catagory>
+		Starters
+	</Catagory>
+</items>
+</Menu>

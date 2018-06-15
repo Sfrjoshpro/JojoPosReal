@@ -1,0 +1,11 @@
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.csprojResolveAssemblyReference.cache
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.Form1.resources
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.Properties.Resources.resources
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.csproj.GenerateResource.Cache
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\bin\Debug\JojoPos.exe.config
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\bin\Debug\JojoPos.exe
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\bin\Debug\JojoPos.pdb
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.exe
+c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.pdb
+C:\Users\nasht\OneDrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.AddModPop.resources
+C:\Users\nasht\OneDrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.menuveiwer.resources

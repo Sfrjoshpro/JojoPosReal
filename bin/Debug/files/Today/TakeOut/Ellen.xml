@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<client xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Ellen</Name>
+  <ListofItems>
+    <items>
+      <Name>Edamame</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>name</Name>
+          <Type>-</Type>
+          <Price>5.00</Price>
+        </Mods>
+        <Mods>
+          <Name>test</Name>
+          <Type>-</Type>
+          <Price>6.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Thai Wings</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods />
+    </items>
+    <items>
+      <Name>Vietnamese Rolls</Name>
+      <LucnhPrice>7.00</LucnhPrice>
+      <DinnerPrice>7.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name />
+          <Type />
+          <Price />
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Vietnamese Rolls</Name>
+      <LucnhPrice>7.00</LucnhPrice>
+      <DinnerPrice>7.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods />
+    </items>
+  </ListofItems>
+</client>

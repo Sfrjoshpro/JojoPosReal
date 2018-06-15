@@ -1,0 +1,1184 @@
+<?xml version="1.0"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>JOJO MENU</Name>
+  <ListofItems>
+    <items>
+      <Name>Edamame</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Yum - Tofu</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>SeaWeed Salad</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Salad</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Laab</Name>
+      <LucnhPrice>13.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Thai Salad</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Veggies</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Tofu</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Red Curry - Tofu</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Curries</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Cashew Nut - Tofu</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Entrees</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Teriyaki Chicken</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Chef's Special</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tofu Delight</Name>
+      <LucnhPrice>0.00</LucnhPrice>
+      <DinnerPrice>0.00</DinnerPrice>
+      <Cat>Veg. Special</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Golden Tofu</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Fresh Rolls</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Fresh Rolls - Shrimp</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Scallion Pancake</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Thai Rolls</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Vietnamese Rolls</Name>
+      <LucnhPrice>7.00</LucnhPrice>
+      <DinnerPrice>7.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Gyoza</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Crab Rangoon</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Thai Wings</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Chicken Satay</Name>
+      <LucnhPrice>6.00</LucnhPrice>
+      <DinnerPrice>6.00</DinnerPrice>
+      <Cat>Starters</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Yum - Chicken</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Yum - Shrimp</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Kha - Tofu</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Kha - Chicken</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Kha - Shrimp</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Veggie Soup</Name>
+      <LucnhPrice>4.00</LucnhPrice>
+      <DinnerPrice>4.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Wonton Soup</Name>
+      <LucnhPrice>5.00</LucnhPrice>
+      <DinnerPrice>5.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Noodle Soup - Chicken</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>9.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Noodle Soup - Pork</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>9.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Noodle Soup - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>9.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Noodle Soup - Duck</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>10.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Tom Yum Nooble Soup</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>9.00</DinnerPrice>
+      <Cat>Soup</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Chicken Satay Salad</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>8.00</DinnerPrice>
+      <Cat>Salad</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Yum - Beef</Name>
+      <LucnhPrice>14.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Thai Salad</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Yum - Seafood</Name>
+      <LucnhPrice>15.00</LucnhPrice>
+      <DinnerPrice>15.00</DinnerPrice>
+      <Cat>Thai Salad</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Tofu</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Shrimp</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad Thai - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - ToFu</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Veggies</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Shrimp</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Drunken Noodle - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Veggies</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Tofu</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Shrimp</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Pad See Ew - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Veggies</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Tofu</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Shrimp</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Rad Na - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Stir-Fried Noodles</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Tofu</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Shrimp</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>House Friend Rice - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+ <items>
+      <Name>Spicy Fried Rice - Tofu - Tofu</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Beef</Name>
+      <LucnhPrice>9.00</LucnhPrice>
+      <DinnerPrice>12.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Chicken</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Pork</Name>
+      <LucnhPrice>8.00</LucnhPrice>
+      <DinnerPrice>11.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Shrimp</Name>
+      <LucnhPrice>10.00</LucnhPrice>
+      <DinnerPrice>13.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Seafood</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+    <items>
+      <Name>Spicy Fried Rice - Tofu - Crispy Duck</Name>
+      <LucnhPrice>11.00</LucnhPrice>
+      <DinnerPrice>14.00</DinnerPrice>
+      <Cat>Fried Rice</Cat>
+      <Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+        <Mods>
+          <Name>mod</Name>
+          <Type>No</Type>
+          <Price>-0.00</Price>
+        </Mods>
+      </Mods>
+    </items>
+
+  </ListofItems>
+</menu>
