@@ -178,16 +178,12 @@ namespace JojoPos
                         fi = new FileInfo(path + item.Name);
                         break;
                     }
-
-
-
                 }
 
                 fi = fi;
             }
             else
             {
-
                 path += "TakeOut\\";
 
                 di = new DirectoryInfo(path);
@@ -200,15 +196,12 @@ namespace JojoPos
                         fi = new FileInfo(path + item.Name);
                         break;
                     }
-
                 }
             }
 
             // has full file dir and should have right file loaded
             //load in to cloent class wich reads/writes cust files and saves them
-                string f = fi.FullName.ToString();
-                
-                 
+                string f = fi.FullName.ToString();                               
                 GOD = GOD.LoadClient(f);
             fpath = f;
 
@@ -221,16 +214,9 @@ namespace JojoPos
             //loads clients listofitems
                 foreach (var item in GOD.ListofItems)
                 {
-
                     var a = item;
-
-
                     //TEST CoDe
-
-
                     //end TEST CoDE
-
-
                     Recipt.Add("|" + a.Name.ToString() + " \t\t\t\t  " + a.LucnhPrice.ToString());
                     var t = a.LucnhPrice.ToString();
                     t = t.Replace("$", "");
@@ -266,10 +252,6 @@ namespace JojoPos
                         }
                                            }
                 Recipt.Add("---------------------------------------------------------------------------------------------");
-
-
-
-
             }
             CultureInfo culture = (CultureInfo)CultureInfo.CurrentCulture.Clone();
                             culture.NumberFormat.CurrencyNegativePattern = 1;
@@ -315,17 +297,12 @@ namespace JojoPos
                  tempitem.Mods = TempModList;
                  TempList.Add(tempitem);
 
-
-
-
-
                   GOD.Name = Cust;
                  GOD.ListofItems.AddRange(TempList);
 
                   GOD.SaveClient(f);*/
 
                 GOD = GOD;
-
     }
      
     public class client
@@ -362,13 +339,9 @@ namespace JojoPos
                 {
                     var Xml = new XmlSerializer(typeof(client));
                     var test = (client)Xml.Deserialize(stream);
-                    return test ;
-
-                    
+                    return test ;                  
                 }
-
             }
-
         }
 
     public class items
@@ -409,10 +382,6 @@ namespace JojoPos
             get { return _Mods; }
             set { _Mods = value; }
         }
-
-
-
-
     }
 
     public class Mods
@@ -438,11 +407,7 @@ namespace JojoPos
             get { return _Price; }
             set { _Price = value; }
         }
-
-
-
     }
-
         private void listBox2_Click(object sender, EventArgs e)
         {
             button5.Enabled = false;
@@ -455,36 +420,19 @@ namespace JojoPos
             //    MessageBox.Show("THIS IS WHAT U WANTED DUMBASS");
             string selecteditem = listBox2.SelectedItem.ToString();
             if (selecteditem.Contains("MOD"))
-            {
-               
+            {              
                 button5.Enabled = true;
-               
-
             }
             else if(selecteditem.Contains("----------"))
             {
                 MessageBox.Show("---------------------------------------");
             }
             else if (!selecteditem.Contains("MOD") && selecteditem.Contains("|"))
-            {
-              
+            {          
                 button4.Enabled = true;
                 button6.Enabled = true;
-
             }
         }
-
-        private void listBox2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-          
-            
-        }
-
         private void button8_Click(object sender, EventArgs e)
         {
             GOD = new client();
@@ -498,12 +446,6 @@ namespace JojoPos
         {
 
         }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button5_Click(object sender, EventArgs e)
         {
             GOD = GOD;
@@ -541,16 +483,6 @@ namespace JojoPos
             menuve.Show();
         }
 
-        private void groupBox4_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox5_Enter(object sender, EventArgs e)
-        {
-
-        }
-
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             string price;
@@ -569,16 +501,12 @@ namespace JojoPos
                     }
                     listBox4.Items.Add(item.Name);
                 }
-
-
             }
         }
-
         private void timer1_Tick(object sender, EventArgs e)
         {
             label1.Text = DateTime.Now.ToShortTimeString();
         }
-
         private void listBox4_DoubleClick(object sender, EventArgs e)
         {
             
@@ -594,11 +522,6 @@ namespace JojoPos
                 }
             }
         }
-        private void listBox4_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button4_Click(object sender, EventArgs e)
         {
             GOD = GOD;
@@ -645,7 +568,6 @@ namespace JojoPos
         }
         private void button6_Click(object sender, EventArgs e)
         {
-
             //NEED POPUP
             AddModPop pop = new AddModPop();
             Mods newMOd = new Mods();

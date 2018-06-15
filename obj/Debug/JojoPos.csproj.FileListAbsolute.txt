@@ -9,3 +9,15 @@ c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\ob
 c:\users\nasht\onedrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.pdb
 C:\Users\nasht\OneDrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.AddModPop.resources
 C:\Users\nasht\OneDrive\documents\visual studio 2017\Projects\JojoPos\JojoPos\obj\Debug\JojoPos.menuveiwer.resources
+C:\Users\David\Desktop\PosSystem\JojoPosReal\bin\Debug\JojoPos.exe.config
+C:\Users\David\Desktop\PosSystem\JojoPosReal\bin\Debug\JojoPos.exe
+C:\Users\David\Desktop\PosSystem\JojoPosReal\bin\Debug\JojoPos.pdb
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.csprojAssemblyReference.cache
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.AddModPop.resources
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.Form1.resources
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.menuveiwer.resources
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.Properties.Resources.resources
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.csproj.GenerateResource.cache
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.exe
+C:\Users\David\Desktop\PosSystem\JojoPosReal\obj\Debug\JojoPos.pdb
